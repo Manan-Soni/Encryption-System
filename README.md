@@ -12,5 +12,10 @@ Mechanism: The internal mechanism of the cryptex includes a lock that only opens
 Protection: In "The Da Vinci Code," the cryptex also has a vial of vinegar inside. If someone tries to force it open without knowing the correct password, the vial breaks and the vinegar dissolves the papyrus scroll inside, thus destroying the secret message.
 
 <h3>Real-World Application</h3>
+
 While the cryptex as described in "The Da Vinci Code" is a fictional creation, it has inspired real-world enthusiasts and puzzle makers to create functional versions. These real-world cryptexes are often used as puzzle boxes, gifts, or novelty items.
+
+<h3>Conclusion</h3>
+
+The cryptex is a fascinating concept that combines elements of cryptology, mechanical engineering, and historical intrigue, capturing the imagination of readers and inspiring the creation of tangible versions in the real world.
 </p>
