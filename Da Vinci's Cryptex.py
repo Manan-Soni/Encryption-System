@@ -1,4 +1,4 @@
-#Da Vinci's Cryptex
+#Program to decrypt a Da Vinci's Cryptex with given crack word, hint letter and hind letter position 
 n = int(input("No of rings : "))
 crack = input("crack word : ")
 letter = (input("Hint word : "))
